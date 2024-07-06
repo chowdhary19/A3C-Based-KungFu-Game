@@ -43,7 +43,7 @@ python train.py
 ## Video Demonstration
 Watch the demonstration video of the A3C Based KungFu Game:
 
-![A3C KungFu Game Demo](source/a3c video.mp4)
+source -> a3c video.mp4
 
 ## Code Structure
 Here is an overview of the project's code structure:
